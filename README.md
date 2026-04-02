@@ -2,7 +2,6 @@
 
 **Software Engineering student** passionate about technology, discipline, and continuous evolution.
 
-> *Vis et disciplina* ⚔️
 ---
 
 ## 🚀 About Me
@@ -18,7 +17,6 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
 
 <img 
     align="left" 
@@ -140,5 +138,3 @@
 My mission is to become a highly skilled developer who work on projects that challenge my limits every day.
 
 ---
-
-⭐ *"Code. Discipline. Evolution."*
