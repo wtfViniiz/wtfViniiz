@@ -1,22 +1,23 @@
-# wtfViniiz
+# Vinicios Tavares
 
-**software engineer** | backend specialist | distributed systems
+dev and Software Engineering student.
 
-building high-performance systems. 
-cutting unnecessary complexity.
+I love building reliable systems that actually make sense.
 
-### expertise
-systems design · backend development · database optimization · scalability
-
-### languages & tools
-typescript · go · node.js · postgresql · redis · docker
-
-### principles
-- code should be understandable
-- performance is a feature
-- simplicity over complexity
-- no cargo cult programming
+Currently focused on backend development, but I still do fullstack.
 
 ---
 
-contact: [github](https://github.com/wtfViniiz)
+### Tech
+
+**Backend**  
+Node.js, TypeScript, NestJS • Python + FastAPI • Go (currently learning)  
+PostgreSQL, Redis, RabbitMQ
+
+**Frontend**  
+React, Next.js, TypeScript, Tailwind
+
+**Other**  
+Docker, Linux, AWS, testing
+
+---
