@@ -48,47 +48,6 @@ Docker • Linux • AWS • Git • Testing
 
 ---
 
-## current focus
-
-```txt
-• backend engineering
-• distributed systems
-• software architecture
-• containerized environments
-• performance & scalability
-• infrastructure fundamentals
-```
-
----
-
-## philosophy
-
-```txt
-discipline over motivation
-consistency over intensity
-build more, consume less
-```
-
----
-
-## github stats
-
-<div align="center">
-
-<img
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-<img
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&hide_border=true&theme=transparent"
-/>
-
-</div>
-
----
-
 ```txt
 ㅤㅤへㅤㅤㅤㅤㅤㅤㅤㅤ╱|、
 ㅤ૮ㅤ-ㅤ՛)ㅤㅤㅤㅤ(`ㅤ-ㅤ7
