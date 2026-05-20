@@ -16,8 +16,10 @@ PostgreSQL, Redis, RabbitMQ
 
 **Frontend**  
 React, Next.js, TypeScript, Tailwind
+                                   ♡  ╱|、
+                                     (˚ˎ 。7  
+**Other**                             |、˜〵          
+Docker, Linux, AWS, testing           じしˍ,)ノ  
 
-**Other**  
-Docker, Linux, AWS, testing
 
 ---
