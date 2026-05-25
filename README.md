@@ -3,7 +3,8 @@
   │ wtfVIniiz@github ^                     vis et disciplina.  │
   └────────────────────────────────────────────────────────────┘
 
-  $ whoami 
+  $ whoami
+
   ┌────────────────────────────────────────────────────────────┐⠀
   │ Vinicios Tavares · Software Engineer Jr · Brazil           │
   │ Node.js · TypeScript · PostgreSQL · Docker                 │ 
