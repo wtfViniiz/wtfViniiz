@@ -7,15 +7,15 @@
 
   ┌────────────────────────────────────────────────────────────┐⠀
   │ Vinicios Tavares · Software Engineer Jr · Brazil           │
-  │ Node.js · TypeScript · PostgreSQL · Docker                 │ 
+  │ Node.js · TypeScript · Javascript · Java · Rust · C++      │
   │ EF SET English Certificate · C2 Proficient                 │ 
   └────────────────────────────────────────────────────────────┘
      
-  $ ls -la stacks.conf 
+  $ stacks.conf
 
-   [systems]             backend · distributed architecture  
-   [stack]               nodejs · typescript · postgresql   
-   [tools]               docker · linux · git               
+   [systems]             auth systems · REST APIs · distributed architecture · observability · performance
+   [stack]               Nodejs · Typescript · Java · Rust · C++ · Postgresql · Nest.js · Festify · Express
+   [tools]               docker · linux · git · redis · rabbitmq · nginx               
    [learning]            go · scalability · infrastructure  
 
              へ            ╱| 
